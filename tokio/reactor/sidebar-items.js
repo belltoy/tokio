@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Handle","A handle to an event loop."],["PollEvented","A concrete implementation of a stream of readiness notifications for I/O objects that originates from an event loop."],["Reactor","The core reactor, or event loop."],["SetFallbackError","Error returned from `Handle::set_fallback`."],["Turn","Return value from the `turn` method on `Reactor`."]]});
